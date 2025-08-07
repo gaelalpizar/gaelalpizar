@@ -20,12 +20,7 @@ Hello! I'm Gael, a passionate last year software engineering Costa Rican student
 
 ## 📁 Projects
 
-I aim to make my repositories not just code dumps, but **development journals**. You'll find:
-
-- Clear folder structures  
-- Ongoing commits that reflect thought process and problem-solving  
-- Descriptive README files for each project  
-- Use of issues and milestones in collaborative simulations
+Feel free to explore the repositories with different kinds of software projects. Each one showcases different skills and technologies I've worked with in both frontend and backend development.
 
 > 🔍 **Check out my pinned repositories below for examples of my work!**
 
