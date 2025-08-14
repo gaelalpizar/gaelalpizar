@@ -30,7 +30,7 @@
 **Backend:** Node.js, Next.js, C++, C, C#, Java, Python  
 **Database:** SQLServer, MongoDB  
 **Other Tools:** Git, GitHub, Linux, Docker (beginner), CMake, Make, R, RStudio, Visual Studio Code, Visual Studio  
-**Currently learning:** TypeScript, CI/CD workflows, software testing  
+**Currently learning:** TypeScript, CI/CD workflows, software testing, computer systems security (vulnerabilities, threats and protecion measures), advanced software quality measures and strategies (metrics, standards, management and implementation).
 
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
