@@ -1,12 +1,18 @@
 # 👨‍💻 Gael Alpízar | Software Engineering Student & Web Developer
 
-<img src="./Assets/donut.gif" width="200" align="left" style="margin-right: 20px;"/>
+<table>
+  <tr>
+    <td width="220" align="center">
+      <img src="./Assets/donut.gif" width="200" alt="Coding GIF"/>
+    </td>
+    <td>
+      Hello! I'm Gael Alpízar, a passionate last year **Software Engineering** student from Costa Rica at the University of Costa Rica. I focus on **full-stack web development** and modern software engineering practices.  
+      <br><br>
+      I think it's fundamental to build scalable, secure, and maintainable applications, exploring technologies like **React**, **Next.js**, **Node.js**, and more. I enjoy learning about software architecture, distributed systems, and best coding practices.
+    </td>
+  </tr>
+</table>
 
-Hello! I'm **Gael Alpízar**, a passionate last year **Software Engineering** student from Costa Rica at the University of Costa Rica. I focus on **full-stack web development** and modern software engineering practices.  
-
-I love building **scalable**, **secure**, and **maintainable** applications, exploring technologies like **React**, **Next.js**, **Node.js**, and **Python**. I enjoy learning about software architecture, distributed systems, and best coding practices.  
-
-<br clear="left"/>
 
 ---
 
