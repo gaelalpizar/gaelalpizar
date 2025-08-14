@@ -1,6 +1,19 @@
 # 👨‍💻 Gael Alpízar | Software Engineering Student & Web Developer
 
-Hello! I'm Gael, a passionate last year software engineering Costa Rican student at the University of Costa Rica, focused on full-stack web development and modern software engineering practices.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/aab70a2f-ddea-4658-9e16-8cc0258f0946" width="250"/>
+    </td>
+    <td>
+      Hello! I'm Gael, a passionate last year software engineering Costa Rican student at the University of Costa Rica, 
+      focused on full-stack web development and modern software engineering practices.
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## 🌐 About Me
 
