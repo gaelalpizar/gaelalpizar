@@ -6,7 +6,7 @@
       <img src="./Assets/donut.gif" width="200" alt="Coding GIF"/>
     </td>
     <td>
-      Hello! I'm Gael Alpízar, a passionate last year Software Engineering student from Costa Rica at the University of Costa Rica. I focus on full-stack web development and modern software engineering practices.  
+      Hello! I'm Gael Alpízar, a passionate Software Engineer from the Universidad de Costa Rica. I focus on full-stack web development and modern software engineering practices.  
       <br><br>
       I think it's fundamental to build scalable, secure, and maintainable applications, exploring technologies like React, Next.js, Node.js, and more. I enjoy learning about software architecture, distributed systems, and best coding practices.
     </td>
@@ -18,7 +18,7 @@
 
 ## 🌐 About Me
 
-- 🎓 Currently studying **Software Engineering**, with a strong emphasis on both **frontend** and **backend** web technologies.
+- 🎓 Studied **Computer Science with emphasis on Software Engineering**, with a strong emphasis on both **frontend** and **backend** web technologies.
 - 💡 Passionate about building systems that are not only functional, but also **scalable**, **secure**, and **maintainable**.
 - 🧠 Continuously learning about software architecture, design patterns, distributed systems, and frameworks used in real-world applications.
 
@@ -30,7 +30,7 @@
 **Backend:** Node.js, Next.js, C++, C, C#, Java, Python  
 **Database:** SQLServer, MongoDB  
 **Other Tools:** Git, GitHub, Linux, Docker (beginner), CMake, Make, R, RStudio, Visual Studio Code, Visual Studio  
-**Recent knowledge:** Computer systems security (vulnerabilities, threats and protection measures), advanced software quality measures and strategies (metrics, standards, management and implementation), advanced databases (NoSQL databases, parallel databases, multidimensional databases and more).
+
 
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
