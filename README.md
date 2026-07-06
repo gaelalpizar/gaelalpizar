@@ -1,4 +1,4 @@
-# 👨‍💻 Gael Alpízar | Software Engineering Student & Web Developer
+# 👨‍💻 Gael Alpízar | Software Engineer & Web Developer
 
 <table>
   <tr>
