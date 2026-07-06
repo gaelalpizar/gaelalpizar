@@ -67,7 +67,8 @@ Feel free to explore the repositories with different kinds of software projects.
 
 ## 🤝 Let's Connect!
 
-- 📫 gaelalpizar0609@gmail.com  
+- 📫 gaelalpizaralfaro@gmail.com
+- 🔗 linkedin.com/in/gaelalpizar
 
 ---
 
