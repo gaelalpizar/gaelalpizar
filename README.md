@@ -1,4 +1,4 @@
-# 👨‍💻 Gael Alpízar | Software Engineer & Web Developer
+# Gael Alpízar | Software Engineer & Web Developer
 
 <table>
   <tr>
@@ -16,15 +16,15 @@
 
 ---
 
-## 🌐 About Me
+## About Me
 
-- 🎓 Studied **Computer Science with emphasis on Software Engineering**, with a strong emphasis on both **frontend** and **backend** web technologies.
-- 💡 Passionate about building systems that are not only functional, but also **scalable**, **secure**, and **maintainable**.
-- 🧠 Continuously learning about software architecture, design patterns, distributed systems, and frameworks used in real-world applications.
+- Studied **Computer Science with emphasis on Software Engineering**, with a strong emphasis on both **frontend** and **backend** web technologies.
+- Passionate about building systems that are not only functional, but also **scalable**, **secure**, and **maintainable**.
+- Continuously learning about software architecture, design patterns, distributed systems, and frameworks used in real-world applications.
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, MudBlazor  
 **Backend:** Node.js, Next.js, C++, C, C#, Java, Python  
