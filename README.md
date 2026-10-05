@@ -29,7 +29,7 @@
 **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, MudBlazor  
 **Backend:** Node.js, Next.js, C++, C, C#, Java, Python  
 **Database:** SQLServer, MongoDB  
-**Other Tools:** Git, GitHub, Linux, Docker (beginner), CMake, Make, R, RStudio, Visual Studio Code, Visual Studio  
+**Other Tools:** Git, GitHub, Linux, Docker, CMake, Make, R, RStudio, Visual Studio Code, Visual Studio  
 
 
 <p align="left">
