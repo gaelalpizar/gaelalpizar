@@ -103,11 +103,6 @@ Click any project name to open its repository.
 
 ---
 
-## 🤝 Let's Connect
-
-- 📫 [gaelalpizaralfaro@gmail.com](mailto:gaelalpizaralfaro@gmail.com)
-- 🔗 [linkedin.com/in/gaelalpizar](https://linkedin.com/in/gaelalpizar)
-
 <div align="center">
 
 *"Engineering software is not just about writing code, but designing systems that evolve."*
