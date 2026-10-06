@@ -80,7 +80,7 @@ I build full-stack applications and enjoy the engineering side of software: clea
 
 ---
 
-## 📁 Featured Projects
+## 📁 Projects
 
 Click any project name to open its repository.
 
