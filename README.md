@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Gael%20Alp%C3%ADzar&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=60" alt="Gael Alpízar – Software Engineer | Full-Stack Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Gael%20Alp%C3%ADzar&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=60" alt="Gael Alpízar – Software Engineer | Full-Stack Developer | Data Engineer" width="100%"/>
 
 [![Email](https://img.shields.io/badge/Email-gaelalpizaralfaro@gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaelalpizaralfaro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gaelalpizar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaelalpizar)
